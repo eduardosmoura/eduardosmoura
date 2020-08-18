@@ -1,6 +1,6 @@
 <h1>Welcome to my repository!</h1>
 <p>
-I'm <b>Eduardo</b>, <i>Lead Software Developer</i> from <img src="https://image.flaticon.com/icons/svg/1534/1534584.svg" width="20"/> <b>Brazil</b>.
+I'm <b>Eduardo</b>, a passionate <i>software engineer</i> from <img src="https://image.flaticon.com/icons/svg/1534/1534584.svg" width="13"/> <b>Brazil</b>.
 </br></br>
 If you want to get in touch, please reach out to me at:
 </p>
