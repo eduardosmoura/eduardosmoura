@@ -1,4 +1,4 @@
-<h1>Welcome to my repository!</h1>
+<h1>Welcome to my profile!</h1>
 <p>
 I'm <b>Eduardo</b>, a passionate <i>software engineer</i> from <img src="https://image.flaticon.com/icons/svg/1534/1534584.svg" width="13"/> <b>Brazil</b>.
 </br></br>
