@@ -1,17 +1,13 @@
 <h1>Welcome to my profile!</h1>
 <p>I'm <b>Eduardo</b>, a passionate <i>software engineer</i> from <img src="https://image.flaticon.com/icons/svg/1534/1534584.svg" width="13"/> <b>Brazil</b>.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardosmoura" alt="eduardosmoura" /></p>
-<p>If you want to get in touch, please reach out to me at:
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=argentinaluiz&show_icons=true)](https://github.com/argentinaluiz)
-</p>
+<p>If you want to get in touch, please reach out to me at:</p>
 
 [![Gmail Badge](https://img.shields.io/badge/-eduardosmoura@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardosmoura@gmail.com)](mailto:eduardosmoura@gmail.com)
 [![Linkedin: eduardosmoura](https://img.shields.io/badge/-eduardosmoura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardosmoura/)](https://www.linkedin.com/in/eduardosmoura/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eduardosmoura)](https://github.com/eduardosmoura)
 
-<p>
-I’m always interested in hearing from people, whether it’s a request for work, comments or just to say hello.
-</p>
+<p>I’m always interested in hearing from people, whether it’s a request for work, comments or just to say hello.</p>
 <h3>Things I code with:</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -35,8 +31,6 @@ I’m always interested in hearing from people, whether it’s a request for wor
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-<p>
-Thanks for your visit and feel free to add me on LinkedIn.
-</p>
+<p>Thanks for your visit and feel free to add me on LinkedIn.</p>
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardosmoura&show_icons=true)](https://github.com/eduardosmoura)
