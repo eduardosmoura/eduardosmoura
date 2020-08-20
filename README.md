@@ -1,8 +1,8 @@
 <h1>Welcome to my profile!</h1>
-<p>
-I'm <b>Eduardo</b>, a passionate <i>software engineer</i> from <img src="https://image.flaticon.com/icons/svg/1534/1534584.svg" width="13"/> <b>Brazil</b>.
-</br></br>
-If you want to get in touch, please reach out to me at:
+<p>I'm <b>Eduardo</b>, a passionate <i>software engineer</i> from <img src="https://image.flaticon.com/icons/svg/1534/1534584.svg" width="13"/> <b>Brazil</b>.</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardosmoura" alt="eduardosmoura" /></p>
+<p>If you want to get in touch, please reach out to me at:
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=argentinaluiz&show_icons=true)](https://github.com/argentinaluiz)
 </p>
 
 [![Gmail Badge](https://img.shields.io/badge/-eduardosmoura@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardosmoura@gmail.com)](mailto:eduardosmoura@gmail.com)
@@ -38,3 +38,5 @@ I’m always interested in hearing from people, whether it’s a request for wor
 <p>
 Thanks for your visit and feel free to add me on LinkedIn.
 </p>
+
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardosmoura&show_icons=true)](https://github.com/eduardosmoura)
