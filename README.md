@@ -36,4 +36,4 @@
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardosmoura&show_icons=true)](https://github.com/eduardosmoura)
 
 <h3>What's next?</h3>
-<p><image alt="NextJS" src="./nextjs-conf.png" width="52%"/></p>
+<p><image alt="NextJS" src="https://github.com/eduardosmoura/eduardosmoura/blob/master/nextjs-conf.png" width="52%"/></p>
