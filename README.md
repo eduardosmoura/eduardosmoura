@@ -28,8 +28,14 @@
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Postgresql" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=flat-square&logo=ruby&logoColor=white" />
+  <img alt="Rails" src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=flat-square&logo=ruby-on-rails&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white" />
 </p>
 <p>Thanks for your visit and feel free to add me on LinkedIn.</p>
 
