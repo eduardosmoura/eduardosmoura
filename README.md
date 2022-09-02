@@ -42,7 +42,7 @@
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardosmoura&show_icons=true)](https://github.com/eduardosmoura)
 
 <h3>What's next?</h3>
-<p><image alt="NextJS 2022" src="https://nextjs.org/conf/tickets/oct22/eduardosmoura" width="25%"/></p>
+<p><image alt="NextJS 2022" src="https://github.com/eduardosmoura/eduardosmoura/blob/master/next-js-2022.png" width="25%"/></p>
 <p><image alt="NextJS 2021" src="https://github.com/eduardosmoura/eduardosmoura/blob/master/next-js-2021.png" width="25%"/></p>
 <p><image alt="NLW" src="https://github.com/eduardosmoura/eduardosmoura/blob/master/nlw-conf.png" width="52%"/></p>
 <p><image alt="NextJS 2020" src="https://github.com/eduardosmoura/eduardosmoura/blob/master/nextjs-conf.png" width="52%"/></p>
